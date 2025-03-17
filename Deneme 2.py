@@ -6,7 +6,7 @@ from matplotlib.offsetbox import OffsetImage, AnnotationBbox
 import numpy as np
 from StatLib import graph_background, sql_table_read, get_table_animated
 
-
+#denemeasdasdasdasdsdf
 query = """
 SELECT * FROM Oyuncular2025
 ORDER BY attigi_gol DESC
